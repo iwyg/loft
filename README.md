@@ -5,7 +5,7 @@ Loft exposes a standardized logging interface and a default implementation of a 
 
 
 ```bash
-> go get gitlab.tmt.de/golang/loft
+> go get github.com/iwyg/loft
 ```
 
 ### Log cascading
