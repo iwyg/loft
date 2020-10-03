@@ -1,4 +1,4 @@
-#LO/FT
+# LO/FT
 ## Cascading logging for go
 
 Loft exposes a standardized logging interface and a default implementation of a logging handler logging to `log.Logger` 
