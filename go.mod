@@ -1,3 +1,3 @@
-module gitlab.tmt.de/golang/loft
+module github.com/iwyg/loft
 
 go 1.14
